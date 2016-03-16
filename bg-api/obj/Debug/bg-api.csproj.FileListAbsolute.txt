@@ -1,0 +1,6 @@
+D:\projects\Visual Studio\Projects\billingrad\bg-api\bg-api\bin\Debug\bg-api.exe.config
+D:\projects\Visual Studio\Projects\billingrad\bg-api\bg-api\bin\Debug\bg-api.exe
+D:\projects\Visual Studio\Projects\billingrad\bg-api\bg-api\bin\Debug\bg-api.pdb
+D:\projects\Visual Studio\Projects\billingrad\bg-api\bg-api\obj\Debug\bg-api.csprojResolveAssemblyReference.cache
+D:\projects\Visual Studio\Projects\billingrad\bg-api\bg-api\obj\Debug\bg-api.exe
+D:\projects\Visual Studio\Projects\billingrad\bg-api\bg-api\obj\Debug\bg-api.pdb
